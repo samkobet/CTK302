@@ -3,7 +3,7 @@ let font1, font2 ;
 function setup() {
   createCanvas(1000, 500);
   font1 = loadFont("assets/Doctor Glitch.otf") ;
-  font2 = loadFont("assets/Game of Squids.otf") ;
+  font2 = loadFont("assets/Break.ttf") ;
 }
 
 function draw() {
